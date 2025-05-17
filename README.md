@@ -1,7 +1,7 @@
 # Hi, I'm Mark
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=32&duration=4000&pause=1000&color=188EF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=835&lines=Hi%20I'm%20Mark,%20I%20am%20a%20a%20Full%20Stack%20Developer...;and%20I'm%20Always%20Learning%20Something%20New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=32&duration=4000&pause=1000&color=188EF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=835&lines=Hi%20I'm%20Mark,%20I%20am%20a%20Full%20Stack%20Developer...;and%20I'm%20Always%20Learning%20Something%20New)](https://git.io/typing-svg)
 
 ## 👨‍💻 Languages, Frameworks & Tools
 
